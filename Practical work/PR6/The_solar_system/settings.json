@@ -1,0 +1,7 @@
+{
+    "show_trails": true,
+    "show_orbits": true,
+    "show_labels": true,
+    "show_grid": false,
+    "quality": "high"
+}
